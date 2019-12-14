@@ -2,7 +2,7 @@
   "expo": {
     "name": "foodapps",
     "slug": "FoodStore",
-    "privacy": "public",
+    "privacy": "private",
     "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
